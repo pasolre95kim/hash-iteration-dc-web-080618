@@ -10,3 +10,6 @@ def happy_birthday(birthday_kids)
     puts "Happy Birthday #{key}! You are now #{value} years old!"
   end
 end
+
+
+def select_winner
